@@ -1,0 +1,6 @@
+sphinx
+ipython
+ipykernel
+nbsphinx
+scikit-learn
+sphinx-rtd-theme
